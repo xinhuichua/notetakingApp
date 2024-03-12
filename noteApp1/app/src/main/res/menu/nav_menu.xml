@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Notes">
+        <menu>
+            <item
+                android:id="@+id/allNotes"
+                android:icon="@drawable/ic_note_black_24dp"
+
+                android:title="All notes" />
+            <item
+                android:id="@+id/bookmarkNotes"
+                android:icon="@android:drawable/ic_input_get"
+
+                android:title="Bookmarks"
+                />
+            <item
+                android:id="@+id/syncNotes"
+                android:icon="@android:drawable/stat_notify_sync"
+
+                android:title="Sync notes" />
+    </menu>
+
+    </item>
+
+    <item android:title="Settings">
+        <menu>
+    <item
+        android:id="@+id/settingsMenu"
+        android:icon="@drawable/ic_settings_black_24dp"
+
+        android:title="App Settings" />
+
+    <item
+        android:id="@+id/accountSettings"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+
+        android:title="My Account" />
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/weather"
+        android:icon="@drawable/ic_wb_sunny_black_24dp"
+
+        android:title="Weather Forecast" />
+    <item
+        android:id="@+id/signOut"
+        android:icon="@drawable/ic_subdirectory_arrow_left_black_24dp"
+
+        android:title="Sign out" />
+
+</menu>

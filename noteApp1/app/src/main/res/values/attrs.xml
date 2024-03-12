@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="declaredStyle">
+        <attr name="customBackgroundColor" format="color"/>
+        <attr name="customPrimaryTextColor" format="color"/>
+        <attr name="customSecondaryTextColor" format="color"/>
+        <attr name="customCardBackgroundColor" format="color"/>
+
+        <attr name="SwitchColor" format="color"/>
+        <attr name="cardColor" format="color"/>
+        <attr name="toolBarColor" format="color"/>
+        <attr name="cardTextColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name ="navDrawer" format="color"/>
+        <attr name ="btnColor" format="color"/>
+        <attr name="fabColor" format="color"/>
+        <attr name="menuDrawableColor" format="color"/>
+
+    </declare-styleable>
+</resources>

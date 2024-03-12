@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFE66E</color>
+    <color name="lightGreen">#a0ef9a</color>
+    <color name="pink">#ffaedf</color>
+    <color name="lightPurple">#d7afff</color>
+    <color name="skyblue">#9edfff</color>
+    <color name="gray">#e0e0e0</color>
+    <color name="red">#DB4848</color>
+    <color name="blue">#8C9EFF</color>
+    <color name="greenlight">#96D162</color>
+    <color name="notgreen">#EA80FC</color>
+    <color name="correct_dark_blue">#0001FF</color>
+
+    <!--Dark Mode Colors-->
+    <color name="colorPrimaryNight">#121212</color>
+    <color name="colorPrimaryDarkNight">#444444</color>
+    <color name="colorAccentNight">#FFB300</color>
+    <color name="darkmodepink">#FFCDFF</color>
+
+    <!--Extra Colors-->
+    <color name="primaryText">#000000</color>
+    <color name="secondaryText">#1a1a1a</color>
+
+    <color name="primaryTextNight">#FFFFFF</color>
+    <color name="secondaryTextNight">#CFCFCF</color>
+
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="cardBackgroundNight">#eeeeee</color>
+
+    <color name="toolBarLight">#6F40FF</color>
+    <color name="toolBarNight">#263238</color>
+
+    <color name="cardText">#000000</color>
+
+    <color name="textColorLight">#000000</color>
+    <color name="textColorDark">#FFFFFF</color>
+
+    <color name="lightFabColor">#03DAC5</color>
+    <color name="darkFabColor">#0001FF</color>
+
+    <color name="menulightColor">#FFFFFF</color>
+    <color name="menuDarkColor">#000000</color>
+
+    <color name="navDrawerDark">#263238</color>
+
+</resources>

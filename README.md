@@ -1,1 +1,1 @@
-# notetakingApp
+Notetaking Application - Polytechnic module project
